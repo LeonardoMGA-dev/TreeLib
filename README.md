@@ -6,3 +6,5 @@ Posteriormente esta instancia requiere de un Comparator, este elemento lo que ha
 Finalmente con el uso del método addNode(clave padre, valores nuevos), se le agregan nuevos nodos al árbol de forma dinámica, haciendo uso el algoritmo de búsqueda previamente establecido para encontrar el nodo padre a través de una clave y agregar los nodos hijos correspondientes a este.
 Finalmente, se puede encontrar un valor a través del método getValue(clave).
 
+Autor: Leonardo Gonzalez 
+
